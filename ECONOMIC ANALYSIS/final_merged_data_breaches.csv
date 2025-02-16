@@ -1,0 +1,909 @@
+organization,records lost,year,sector,method
+"""apple""","12,367,232",2012,"tech, retail",oops!
+21st century oncology,"2,200,000 customer's data, including names, social security numbers, physicians, diagnoses, insurance information",2015,healthcare,hacked
+23andme,"6,900,000",2023,consumer genetics,credential stuffing
+50 companies and government institutions,"6,400,000",2022,various,poor security
+500px,"14,870,304",2020,social network,hacked
+500px,"14,800,000",2019,web,hacked
+70 different law enforcement agencies,"123,461",2011,government,accidentally published
+8fit,"20,000,000",2019,web,hacked
+?,unknown,2021,international,hacked
+?,unknown,2019,international,hacked
+?,"3,500,000",2011,government,accidentally published
+?,"680,000",2015,government,inside job
+?,"1,600,000",2008,government,accidentally published
+?,"20,800,000 records, including names, family members, financial and work data, civil registration data, car ownership data",2019,government,poor security / misconfigured server
+?,"9,000,000",2012,government,hacked
+aadhaar,"550,000,000",2018,government,poor security
+accendo insurance co.,"175,350",2011,health,poor security
+accendo insurance co.,"175,350",2020,healthcare,poor security
+accenture,,2007,,
+acer,"3,000,000",2021,tech,hacked
+adobe,"38,000,000",2013,tech,hacked
+adobe inc.,"7,500,000",2019,tech,poor security
+adobe systems incorporated,"152,000,000",2013,tech,hacked
+adt inc.,"30,800, including email addresses, phone numbers and postal addresses.",2024,security,accessing certain databases containing customer information
+adult friend finder,"3,900,000",2015,web,hacked
+advocate medical group,"4,000,000",2013,health,lost device
+advocate medical group,"4,000,000",2017,healthcare,lost / stolen media
+aerserv (subsidiary of inmobi),"75,000",2018,advertising,hacked
+"affinity health plan, inc.","344,579",2013,health,lost device
+"affinity health plan, inc.","344,579",2013,healthcare,lost / stolen media
+aimware,"305,470",2019,gaming,hacked
+air canada,"20,000",2018,transport,hacked
+air india,"4,500,000",2021,transport,hacked
+air india,"4,500,000, including name, date of birth, contact information, passport information, frequent flyer data, credit card data, ticket information",2021,transport,hacked
+airtel,"320,000,000",2019,telecommunications,poor security
+al.type,"31,000,000",2017,app,poor security
+amazon,"5,000,000",2018,retail,oops!
+amazon japan g.k.,unknown,2019,online,accidentally published
+amazon reviews,"13,124,962",2021,web,poor security
+ameriprise financial,"260,000 customer records",2005,financial,stolen laptop
+ameritrade inc.,"200,000",2005,finance,lost device
+ancestry.com,"300,000",2021,genealogy,poor security
+animal jam,"46,000,000",2020,gaming,hacked
+animoto,"25,000,000",2019,web,hacked
+"ankle & foot center of tampa bay, inc.","156,000",2021,healthcare,hacked
+"ankle & foot center of tampa bay, inc.","156,000",2011,health,hacked
+anthem,"80,000,000",2015,health,hacked
+anthem inc.,"80,000,000",2015,healthcare,hacked
+aol,"2,400,000",2014,web,hacked
+aol,"20,000,000",2006,web,"accidentally published, (sometimes referred to as a ""data valdez"",[179][180][181] due to its size)"
+aol,"92,000,000",2004,web,inside job
+aol,"2,400,000",2014,web,hacked
+aol,"92,000,000",2004,web,inside job
+aol,"20,000,000",2006,web,oops!
+apollo,"200,000,000",2018,tech,poor security
+apple,"275,000",2013,"tech, web",hacked
+apple,"275,000",2013,tech,hacked
+apple health medicaid,"91,000",2021,healthcare,poor security
+apple icloud,photographs of celebrities,2014,"tech, cloud storage",
+"apple, inc./bluetoad","12,367,232",2021,"tech, retail",accidentally published
+armor games,"11,000,000",2019,gaming,hacked
+artsy,"1,000,000",2019,web,hacked
+ashley madison,"32,000,000",2015,dating,hacked
+ashleymadison.com,"37,000,000",2015,web,hacked
+at&t,"72,000,000",2021,telecoms,unknown
+at&t,"113,000",2008,telecoms,lost device
+at&t,"114,000",2010,telecoms,hacked
+at&t,"114,000",2010,telecoms,hacked
+at&t,"113,000",2008,telecoms,lost / stolen computer
+atraf,unknown,2021,dating,hacked
+auction.co.kr,"18,000,000",2008,web,hacked
+auction.co.kr,"18,000,000",2008,web,hacked
+australian immigration department,30,2015,government,oops!
+australian immigration department,g20 world leaders,2015,government,accidentally published
+australian national university,19 years of data,2019,academic,hacked
+australian national university,"200,000",2019,academic,hacked
+australian red cross blood service,"550,000, including names, contact details, birthdates, medical details, information about ""at-risk sexual behaviour""",2016,non-profit,accidently published
+automatic data processing,"125,000",2006,finance,poor security
+automatic data processing,"125,000",2006,financial,poor security
+"avmed, inc.","1,220,000",2010,health,lost device
+"avmed, inc.","1,220,000",2009,healthcare,lost / stolen computer
+avvo,"4,101,101",2019,legal,hacked
+bailey's inc.,"250,000",2015,retail,hacked
+bank of america,"1,200,000",2005,financial,lost / stolen media
+banner health,"3,700,000",2016,health,hacked
+barnes & noble,63 stores,2012,retail,hacked
+bbc,"25,290 employee pension records, including name, date of birth, home address, national insurance number",2024,public broadcasting,hacked
+bell,"1,900,000",2017,telecoms,hacked
+bell canada,"1,900,000",2017,telecoms,poor security
+bell canada,"100,000",2018,telecoms,hacked
+bell canada,"2,200,000",2024,telecoms,data leak (12 nov. breachforums)
+benesse,"35,040,000",2014,educational services,hacked
+betfair,"2,300,000",2011,web,hacked
+betfair,"2,300,000",2010,gambling,hacked
+bethesda game studios,"customer names, addresses, contact details, partial credit card numbers",2018,gaming,accidentally published
+bethesda game studios,"200,000",2011,gaming,hacked
+bethesda game studios,"200,000",2011,gaming,hacked
+betsson group,unknown,2020,gambling,unknown
+blank media games,"7,600,000",2019,gaming,hacked
+blank media games,"7,633,234",2018,gaming,hacked
+blizzard,"14,000,000",2012,gaming,hacked
+blizzard entertainment,"14,000,000",2012,gaming,hacked
+blue cross blue shield of tennessee,"1,023,209",2010,health,lost device
+bluecross blueshield of tennessee,"1,023,039",2009,healthcare,lost / stolen media
+blur,"2,400,000",2019,tech,oops!
+bmo and simplii,"90,000",2018,financial,poor security
+bny mellon shareowner services,"4,500,000",2008,finance,lost device
+boeing,"382,000 employees (after similar losses of data on 3,600 employees in april and 161,000 employees in november, 2005)",2006,transport,lost/stolen device
+bookmate,"8,000,000",2019,web,hacked
+boots advantage card,"150,000",2020,retail,hacked
+brazzers,"790,724",2016,web,hacked
+brewdog,"200,000",2021,retail,poor security
+briansclub,"26,000,000",2019,web,hacked
+british airways,"10,000",2015,transport,hacked
+british airways,"500,000",2018,transport,hacked
+british airways,"380,000",2018,transport,hacked
+british airways,tens of thousands,2015,transport,hacked
+british library,unknown,2023,government,ransomware
+british national party,records,2008,politics,
+buchbinder car rentals,"5,000,000",2020,transport,poor security
+bulgarian national revenue agency,"5,000,000",2019,government,hacked
+bulgarian national revenue agency,"over 5,000,000",2019,government,hacked
+california department of child support services,"800,000",2012,government,lost / stolen media
+california department of child support services,"800,000",2012,government,lost device
+call of duty / activision,"500,000",2020,gaming,hacked
+callaway golf company,"1,114,954, including full names, shipping addresses, email addresses, phone numbers, order histories, account passwords, answers to security questions",2023,sports,hacked
+canva,"139,000,000",2019,web,hacked
+canva,"140,000,000",2019,web,hacked
+capcom,"350,000",2020,gaming,hacked
+capital one,"100,000,000",2019,finance,hacked
+capital one,"106,000,000",2019,financial,unsecured s3 bucket
+cardsystems solutions inc.,"40,000,000",2005,finance,hacked
+"cardsystems solutions inc.
+(mastercard, visa, discover financial services and american express)","40,000,000",2005,financial,hacked
+careem,"14,000,000",2018,app,hacked
+carefirst,"1,100,000",2015,health,hacked
+carefirst bluecross blue shield - maryland,"1,100,000",2015,healthcare,hacked
+carphone warehouse,"2,400,000",2015,telecoms,hacked
+cathay pacific airways,"9,400,000",2018,transport,hacked
+cathay pacific airways,"94,000,000",2018,transport,hacked
+cdek,"18,218,203",2022,retail,hacked
+cellebrite,"3,000,000",2017,tech,hacked
+cense ai,"2,500,000",2020,"tech, health",poor security
+centers for medicare & medicaid services,"75,000",2018,healthcare,hacked
+central coast credit union,"60,000",2016,financial,hacked
+central hudson gas & electric,"110,000",2013,misc,hacked
+central hudson gas & electric,"110,000",2013,energy,hacked
+central intelligence agency,91,2017,malware tools,internal job
+cex,"2,000,000",2017,retail,oops!
+cgi group,"283,000",2007,,
+checkfree corporation,"5,000,000",2009,financial,hacked
+checkfree corporation,"5,000,000",2009,finance,hacked
+checkpeople,"56,000,000",2020,background check,unknown
+chess.com,"800,000",2023,gaming,web scraping
+chile ministry of education,"6,000,000",2008,government,hacked
+china software developer network,"6,000,000",2011,web,hacked
+china software developer network,"6,000,000",2012,web,hacked
+chinese gaming sites,"10,000,000",2011,web,hacked
+"chinese gaming websites (three: duowan, 7k7k, 178.com)","10,000,000",2011,gaming,hacked
+chinese resume leak,"202,000,000",2018,web,poor security
+choicepoint,"163,000 consumer records",2005,data aggregator,intentionally selling data
+chtrbox,"49,000,000",2019,misc,poor security
+citigroup,"360,083",2011,financial,hacked
+citigroup,"150,000",2013,financial,poor security
+citigroup,"150,000",2013,finance,oops!
+citigroup,"3,900,000",2005,financial,lost / stolen media
+citigroup,"3,900,000",2005,finance,lost device
+citigroup,"210,000",2011,finance,hacked
+city and hackney teaching primary care trust,"160,000",2007,healthcare,lost / stolen media
+city and hackney teaching primary care trust,"160,000",2007,government,lost device
+"city of amagasaki, japan","500,000",2022,government,oops!
+classified iraq war documents,"392,000",2010,government,inside job
+clearview ai,unknown (client list),2020,information technology,hacked
+click2gov,"300,000",2018,finance,hacked
+clinton campaign,"5,000,000",2016,government,hacked
+clixsense,"6,600,000",2016,web,hacked
+coffeemeetsbagel,"6,000,000",2019,web,hacked
+coinmama,"450,000",2019,finance,hacked
+collection no. 1,"773,000,000",2019,various,compilation of multiple data breaches
+colorado department of health care policy & financing,"105,470",2010,healthcare,lost / stolen computer
+colorado government,"105,470",2010,health,lost device
+commission on elections,"55,000,000",2016,government,hacked
+commission on elections,records,2016,,hacked
+community health systems,"4,500,000",2014,health,hacked
+community health systems,"4,500,000",2014,healthcare,hacked
+compass bank,"1,000,000",2007,financial,inside job
+compass bank,"1,000,000",2008,finance,inside job
+consumer financial protection bureau,"256,000",2023,bureau,poor security
+contact tracing data,"38,000,000",2021,telecoms,hacked
+countrywide financial corp,"2,500,000",2008,finance,inside job
+countrywide financial corp,"2,500,000",2008,financial,insider theft
+court ventures,"200,000,000",2013,finance,inside job
+cox communications,"40,000",2016,telecoms,hacked
+"crescent health inc., walgreens","100,000",2013,health,lost device
+"crescent health inc., walgreens","100,000",2013,"healthcare, pharmacy",lost / stolen computer
+cutout.pro,"19,972,829",2024,web,hacked
+cvs,millions,2015,pharmacy,hacked
+cyberserve,"1,107,034",2021,hosting provider,hacked
+"d&b, altegrity","1,000,000",2013,tech,hacked
+d. a. davidson & co.,"192,000 clients' names, customer account and social security numbers, addresses and dates of birth",2007,broker/dealer,hacked by latvian hackers
+dafont,"700,000",2017,web,hacked
+dai nippon printing,"8,637,405",2007,retail,inside job
+dai nippon printing,"8,637,405, including names, addresses, credit card numbers",2007,printing,inside job
+dailymotion,"85,200,000",2016,web,hacked
+"data processors international (mastercard, visa, discover financial services and american express)","8,000,000",2008,financial,hacked
+datacamp,"700,000",2019,web,hacked
+db8151dd,"22,000,000",2020,web,hacked
+dc health link,"56,000",2023,healthcare,misconfigured website
+dedalus biologie (a division of dedalus global[92]),"500,000",2021,healthcare,poor security
+deep root analytics,"198,000,000",2015,web,poor security
+defense integrated data center (south korea),235 gb,2017,"government, military",hacked
+dell,"49,000,000, including customer's names, addresses, order and hardware information",2024,electronics,"brute force attack by a ""dell partner"""
+dell,"100,000",2018,tech,hacked
+deloitte,350 clients emails,2017,"consulting, accounting",poor security
+democratic national committee,"19,252",2016,political,hacked
+department of homeland security,"30,000",2016,government,poor security
+desjardins,"9,700,000",2019,financial,inside job
+desjardins group,"4,200,000",2019,finance,inside job
+digital ocean,"10,000,000",2021,tech,poor security
+directorate general of immigration of indonesia,"34,900,867",2023,government,hacked and published
+directorate general of population and civil registration (dukcapil),337.225.463,2023,government,leaked and published
+diskunion,"701,000",2022,retail,hacked
+disney,1.2 tb of internal slack data,2024,entertainment,hacked with a trojan
+disqus,"17,500,000",2017,web,hacked
+dixons carphone,"10,000,000",2018,telecoms,hacked
+dominios pizzas (france),"600,000",2014,retail,hacked
+domino's pizza (france),"600,000",2014,restaurant,hacked
+donorview[91][92],"948,029",2023,charity,poor security
+doordash,"4,900,000",2019,web,hacked
+doordash,"4,900,000",2019,transport,hacked
+driving standards agency,"3,000,000",2007,government,lost / stolen media
+driving standards agency,"3,000,000",2007,government,lost device
+drizly,"2,400,000",2020,app,hacked
+dropbox,"68,648,009",2012,web,hacked
+dropbox,"68,700,000",2012,web,hacked
+drupal,"1,000,000",2013,web,hacked
+drupal,"1,000,000",2013,web,hacked
+dsw inc.,"1,400,000",2005,retail,hacked
+dubai real estate leak,"800,000",2022,financial,inside job
+dubsmash,"162,000,000",2019,web,hacked
+dubsmash,"162,000,000",2018,social network,hacked
+dun & bradstreet,"1,000,000",2013,tech,hacked
+duolingo,"2,676,696",2023,educational services,web scraping
+dutch government,"6,900,000",2020,government,lost device
+"earl enterprises(buca di beppo, earl of sandwich, planet hollywood,chicken guy, mixology, tequila taqueria)","2,000,000",2018,restaurant,hacked
+easyjet,"9,000,000",2020,transport,hacked
+easyjet,"9,000,000 (approx) - basic booking, 2208 (credit card details)",2019,transport,hacked
+ebay,"145,000,000",2014,e-commerce,hacked
+ebay,"145,000,000",2014,web,hacked
+educational credit management corp,"3,300,000",2010,finance,lost device
+educational credit management corporation,"3,300,000",2010,"nonprofit, financial",lost / stolen media
+eisenhower medical center,"514,330",2011,health,lost device
+eisenhower medical center,"514,330",2011,healthcare,lost / stolen computer
+elasticsearch,"108,000,000",2019,tech,poor security
+embassy cables,"251,000",2010,government,inside job
+"emergency healthcare physicians, ltd.","180,111",2010,health,lost device
+"emergency healthcare physicians, ltd.","180,111",2010,healthcare,lost / stolen media
+emory healthcare,"315,000",2012,healthcare,poor security
+emory healthcare,"315,000",2012,health,lost device
+england and wales cricket board,"43,299",2024,government,unknown
+epic games fortnite,user accounts,2018,gaming,vulnerability
+epik,"15,000,000",2021,retail,hacked
+epik,"15,000,000",2021,web,hacked
+epsilon,"3,000,000",2011,web,hacked
+equifax,"143,000,000, including names, date of birth, social security numbers, addresses, credit cards, driver's licenses",2017,"financial, credit reporting",poor security
+equifax,"143,000,000",2017,finance,hacked
+ernst & young,"234,000 customers of hotels.com (after a similar loss of data on 38,000 employees of ernst & young clients in february)",2006,,
+essilorluxottica,"77,093,812",2021,"healthcare, retail",hacked
+estonian gov,"280,000",2021,government,hacked
+european central bank,unknown,2014,financial,hacked
+european central bank,"4,000,000",2014,finance,hacked
+evernote,"50,000,000",2013,web,hacked
+evernote,"50,000,000",2013,web,hacked
+evide data breach,"1,000",2023,computer services for charities,ransomware hacked
+exactis,"340,000,000",2018,data broker,poor security
+excellus bluecross blueshield,"10,000,000",2015,healthcare,hacked
+experian,"23,000,000",2020,finance,social engineering
+experian - t-mobile us,"15,000,000",2015,telecoms,hacked
+experian / t-mobile,"15,000,000",2015,telecoms,hacked
+experian brazil,"220,000,000",2021,finance,hacked
+experian sa,"24,000,000",2020,web,oops!
+eyeem,"22,000,000",2019,web,hacked
+eyewire,unknown,2016,tech,lost / stolen computer
+facebook,"1,500,000",2019,social network,accidentally uploaded
+facebook,"540,000,000",2019,social network,poor security
+facebook,"87,000,000",2010,social network,data misuse
+facebook,"419,000,000",2019,web,poor security
+facebook,"50,000,000",2018,social network,poor security
+facebook,"267,000,000",2019,social network,poor security
+facebook,"29,000,000",2018,web,hacked
+facebook,"533,000,000",2021,tech,hacked
+facebook,"50,000,000",2018,web,hacked
+facebook,"6,000,000",2013,social network,accidentally published
+facebook,"6,000,000",2013,web,oops!
+facebook marketplace,"200,000",2023,social network,unknown
+fast retailing,"461,091",2019,retail,hacked
+fbi,records,2016,law enforcement,hacked
+federal reserve bank of cleveland,"400,000",2010,financial,hacked
+fidelity national financial,"1,300,000",2023,financial,hacked by alphv
+fidelity national information services,"8,500,000",2007,finance,inside job
+fidelity national information services,"8,500,000",2007,financial,inside job
+firebase,"100,000,000",2018,app,poor security
+fireeye,unknown,2020,information security,hacked
+first american corporation,"885,000,000",2019,financial,poor security
+flexbooker,"3,700,000",2022,web,hacked
+fling,"40,000,000",2016,web,hacked
+florida department of juvenile justice,"100,000",2013,government,lost device
+florida department of juvenile justice,"100,000",2013,government,lost / stolen computer
+formspring,"420,000",2012,web,accidentally published
+formspring,"420,000",2012,web,hacked
+fotolog,"16,000,000",2019,web,hacked
+friend finder network,"412,000,000",2016,web,hacked
+friend finder network,"412,214,295",2016,web,poor security / hacked
+funimation,"2,500,000",2016,web,hacked
+gab,"4,000,000",2021,tech,hacked
+game freak,"2,606",2024,gaming,hacked (phishing)
+gamigo,"8,000,000",2012,web,hacked
+gamigo[91][355],"8,000,000",2012,web,hacked
+gap inc,"800,000",2007,retail,lost device
+gap inc.,"800,000",2007,retail,lost / stolen computer
+gawker,"1,500,000",2010,web,hacked
+gawker.com,"1,500,000",2010,web,hacked
+ge money,"650,000 customer's data, including 150,000 social security numbers and in-store credit card information from retail customers",2008,financial,magnetic tape missing from an iron mountain incorporated storage facility
+ge.tt,"1,800,000",2019,web,hacked
+gedmatch,"1,400,000",2020,"misc, health",hacked
+global payments,"7,000,000",2012,financial,hacked
+global payments,"1,500,000",2012,finance,hacked
+gmail,"5,000,000",2014,web,hacked
+gmail,"5,000,000",2014,web,hacked
+godaddy,"1,200,000",2021,web,hacked
+golfzon,"2,210,000, including names, phone numbers, email addresses, dates of birth",2023,sports,ransomware/hacked
+google plus,"500,000",2018,social network,poor security
+google+,"52,500,000",2018,web,poor security
+goregrish.com,"300,000",2021,web,hacked
+govpaynow.com,"14,000,000",2018,finance,poor security
+greek government,"9,000,000",2012,government,hacked
+grindr,"3,000,000",2018,app,poor security
+grozio chirurgija,"25,000",2017,healthcare,hacked
+gs caltex,"11,100,000, including names, social security numbers, addresses, cell phone numbers, email addresses and workplaces of customers",2008,energy,discs found in trash
+gs caltex,"11,100,000",2008,misc,inside job
+guntrader,"111,000",2021,retail,hacked
+gyft,unknown,2016,web,hacked
+hacking team,"500,000",2015,web,hacked
+hannaford brothers supermarket chain,"4,200,000",2008,retail,hacked
+hannaford brothers supermarket chain,"4,200,000, including credit card numbers and expiration dates",2008,retail,hacked
+hautelook,"28,517,244",2018,e-commerce,hacked
+hautelook,"28,000,000",2019,retail,hacked
+hca healthcare,"11,270,000",2023,healthcare,hacked
+health net,"1,500,000, including names, medical records, addresses, social security numbers",2009,healthcare,lost / stolen media
+health net,"1,500,000",2009,health,lost device
+health net - ibm,"1,900,000",2011,health,lost device
+health net — ibm,"1,900,000",2011,healthcare,lost / stolen media
+health sciences authority,"808,000",2019,healthcare,poor security
+health service executive,unknown,2021,healthcare,unknown
+heartland,"130,000,000",2009,finance,hacked
+heartland payment systems,"130,000,000",2009,financial,hacked
+heathrow airport,2.5gb,2017,transport,lost / stolen media
+helse sør-øst rhf,"3,000,000",2018,health,hacked
+heroku,"50,000",2022,tech,hacked
+hewlett packard,"200,000",2006,"tech, retail",lost device
+hewlett packard,"200,000",2006,"tech, retail",lost / stolen media
+high tail hall,"411,000",2018,web,hacked
+hilton hotels,"363,000",2014,hotel/casino,hacked
+ho mobile,"2,500,000",2020,telecoms,hacked
+home depot,"56,000,000",2014,retail,hacked
+home depot,"56,000,000",2014,retail,hacked
+honda canada,"283,000, including names, addresses, vin numbers, honda financial services account numbers, phone numbers, e-mail addresses",2011,automotives,"""unusual traffic"""
+honda canada,"283,000",2011,retail,hacked
+hong kong registration & electoral office,"3,700,000",2017,government,lost device
+houzz,"57,000,000",2019,retail,hacked
+hsbc turkey,"2,700,000",2014,finance,hacked
+hyatt hotels,250 locations,2015,hotel/casino,hacked
+iberdrola,"1,300,000",2022,energy,poor security
+ikea,"95,000",2022,retail,accidentally published
+imgur,"1,700,000",2017,app,hacked
+indian citizens,"275,265,298",2019,web,poor security
+indian council of medical research,"815,000,000+, including aadhaar ids, passport details, names, phone numbers, addresses",2023,government,hacked by pwn0001
+indiana university,"146,000",2014,academic,poor security
+infosys mccamish systems,"57,028 bank of america customers, including names and social security numbers
+28,268 fidelity investments customers, including names, dates of birth, social security numbers, bank account and routing numbers, credit card numbers, passwords, pins",2023,tech,hacked
+insomniac games,"1.67 tb, 1.3 million files of passports, i-9 forms, termination documents, slack messages, wolverine game data",2023,gaming,hacked by rhysida
+instagram,"200,000,000",2020,social network,poor security
+instagram,"6,000,000",2017,web,hacked
+internal revenue service,"720,000",2015,financial,hacked
+international committee of the red cross,"515,000",2022,humanitarian,unknown
+interpark,"10,000,000",2016,web,hacked
+inuvik hospital,"6,700",2016,healthcare,inside job
+invest bank,"40,000",2015,finance,hacked
+"iranian banks (three: saderat, eghtesad novin, and saman)","3,000,000",2012,financial,hacked
+irs,"100,000",2015,government,hacked
+israeli government,"6,500,000",2020,government,poor security
+ititan hosting solutions,unknown,2024,hosting provider,hacked / poor security
+ixigo,"18,000,000",2019,transport,poor security
+japan airlines,"750,000",2014,transport,hacked
+japan pension service,"1,250,000",2015,special public corporation,hacked
+japanet takata,"510,000",2004,shopping,inside job
+jp morgan chase,"76,000,000",2014,financial,hacked
+jp morgan chase,"2,600,000",2007,finance,lost device
+jp morgan chase,"2,600,000",2007,financial,lost / stolen media
+jp morgan chase,"76,000,000",2014,finance,hacked
+justdial,"100,000,000",2019,local search,unprotected api
+kadokawa corporation,"1.5tb of corporate, and personal information of users and employees of niconico",2024,web,ransomware hacking
+kddi,"4,000,000",2006,telecoms,hacked
+kddi,"4,000,000",2006,telecoms,hacked
+kirkwood community college,"125,000",2013,academic,hacked
+kirkwood community college,"125,000",2013,academic,hacked
+kitchenpal (icuisto),"100,000",2023,web,hacked
+km.ru,"1,500,000",2016,web,hacked
+km.ru & nival,"1,500,000",2016,web,hacked
+koodo mobile,unknown,2020,mobile carrier,hacked
+korea credit bureau,"20,000,000",2014,finance,inside job
+korea credit bureau,"20,000,000",2014,"financial, credit bureau",inside job
+kroll background america,"1,000,000",2013,tech,hacked
+kromtech,"13,000,000",2015,web,hacked
+kt corp.,"8,700,000",2012,telecoms,hacked
+kt corporation,"8,700,000",2012,telecoms,hacked
+"landry's, inc.",500 locations,2015,restaurant,hacked
+last.fm,"43,500,000",2012,web,hacked
+lastpass,"password reminders, e-mail addresses",2015,tech,hacked
+lastpass,password vault backup,2022,tech,poor security/hacked
+ledger,"270,000",2020,finance,hacked
+les éditions protégez-vous,"380,000",2020,publisher (magazine),unknown
+lexisnexis,"1,000,000",2014,tech,hacked
+lifelabs[91][92],"15,000,000",2019,healthcare,hacked
+lincoln medical & mental health center,"130,495",2010,healthcare,lost / stolen media
+lincoln medical & mental health center,"130,495",2010,health,lost device
+line pay,"133,000",2021,financial,poor security
+line yahoo,"520,006",2023,social media/web,cyber infection/unautorized access
+linkedin,"700,000,000",2021,web,hacked
+linkedin,"117,000,000",2016,web,hacked
+"linkedin, eharmony, last.fm","8,000,000",2012,web,accidentally published
+"linkedin, eharmony, last.fm","8,000,000",2012,web,hacked
+linux ubuntu forums,"2,000,000",2016,web,hacked
+living social,"50,000,000",2013,web,hacked
+living social,"50,000,000",2013,web,hacked
+localblox,"48,000,000",2018,web,poor security
+lyca mobile,"16,000,000",2023,telecommunications,hacked
+lynda.com,"9,500,000",2016,web,hacked
+macdonalds,"10,000,000",2021,retail,hacked
+macrumors.com,"860,000",2014,web,hacked
+macrumours.com,"860,000",2013,web,hacked
+mail. ru,"25,000,000",2016,web,hacked
+mailchimp,"106,586",2022,tech,hacked
+malaysian medical practitioners,"81,309",2017,health,hacked
+malaysian telcos & mvnos,"46,200,000",2017,telecoms,hacked
+mandarin oriental hotels,10 locations,2014,hotel/casino,hacked
+manipulated caiman,"40,000,000",2023,financial,hacked
+marriott hotels,"5,200,000",2020,retail,inside job
+marriott international,"383,000,000",2018,retail,hacked
+marriott international,"500,000,000",2018,hotel/casino,hacked
+marriott international,"5,200,000",2020,hotel/casino,poor security/inside job
+massachusetts executive office of labor and workforce development,"210,000, including names, social security numbers, employer identification numbers, emails, home addresses",2011,government,hacked with a trojan
+massachusetts government,"210,000",2011,government,hacked
+massive american business hack,"160,000,000",2012,financial,hacked
+massive american business hack,"160,000,000",2013,finance,hacked
+mbm company,"1,300,000",2018,retail,poor security
+mediaworks new zealand,"162,710",2023,media,hacked
+medibank & ahm,"9,700,000",2022,healthcare,hacked
+medicaid,"780,000",2012,"government, health",hacked
+medicaid,"780,000",2012,"government, healthcare",hacked
+medical informatics engineering,"3,900,000",2015,healthcare,hacked
+medicare & medicaid,"93,689",2018,health,hacked
+meet mindful,"2,240,000",2021,tech,hacked
+memorial healthcare system,"102,153",2012,health,lost device
+memorial healthcare system,"102,153",2011,healthcare,lost / stolen media
+mgm hotels,"10,600,000",2020,retail,hacked
+mgm resorts,"10,600,000",2019,hotel/casino,hacked
+michaels,"3,000,000",2014,retail,hacked
+microsoft,"250,000,000",2019,tech,data exposed by misconfiguration
+microsoft,"250,000,000",2020,web,poor security
+microsoft exchange servers,unknown,2021,software,zero-day vulnerabilities
+militarysingles.com,"163,792",2012,"web, military",hacked
+militarysingles.com,"163,792",2012,dating,accidentally published
+minecraft,"7,000,000",2016,gaming,hacked
+ministry of education,"6,000,000, including id card numbers, addresses, telephone numbers academic records",2008,government,hacked
+ministry of health,"14,200",2019,healthcare,poor security/inside job
+mitsubishi tokyo ufj bank,"960,000",2006,financial,intentionally lost
+mobile telesystems (mts),"100,000,000",2019,telecommunications,misconfiguration/poor security
+mongodb,"275,000,000",2019,tech,poor security
+mongodb,"202,000,000",2019,tech,poor security
+monster.com,"1,600,000",2007,web,hacked
+monster.com,"1,600,000",2007,web,hacked
+morgan stanley smith barney,"34,000",2011,financial,lost / stolen media
+morgan stanley smith barney,"34,000",2011,finance,lost device
+morinaga confectionery,"1,648,922",2022,food,ransomware hacked
+mossack fonseca,panama papers,2016,,
+mossack fonseca,"11,500,000",2016,misc,hacked
+mount olympus,"1,100",2016,finance,inside job
+mozilla,"76,000",2014,web,poor security
+mozilla,"76,000",2014,web,poor security
+mspy,"400,000",2015,app,hacked
+mutuelle generale de la police,"112,000",2016,health,inside job
+myfitnesspal,"150,000,000",2018,app,hacked
+myfitnesspal[613][614],"150,000,000",2018,consumer goods,hacked
+myheritage,"92,283,889",2018,genealogy,unknown
+myheritage,"92,283,889",2018,web,hacked
+myspace,"360,000,000+, including usernames, passwords email addresses",2016,social network,poor security/account recovery
+myspace,"164,000,000",2016,web,hacked
+nametests,"120,000,000",2018,app,poor security
+nasdaq,"500,000",2013,finance,hacked
+nasdaq,unknown,2014,financial,hacked
+national archives and records administration (u.s. military veterans records),"76,000,000",2009,military,lost / stolen media
+national guard of the united states,"131,000, including names, social security numbers, incentive payment amounts, payment dates",2009,military,lost / stolen computer
+national health information center (nczi) of slovakia,"391,250",2020,healthcare,poor security
+national police corps of the netherlands,"63,000+ staff members data including names, email addresses, phone numbers",2024,police,hacked
+national public data,"2,900,000,000+ (claimed), including names, email addresses, phone numbers, social security numbers, and mailing addresses",2024,data broker,hacked
+national security agency,"1,500,000",2013,government,inside job
+natural grocers,93 stores,2015,retail,hacked
+"nec networks, llc[91][92]","1,600,000",2021,healthcare,hacked
+neiman marcus,"4,600,000",2021,retail,hacked
+neiman marcus,"1,100,000",2014,retail,hacked
+neiman marcus,"1,100,000",2014,retail,hacked
+nemours foundation,"1,600,000",2011,health,lost device
+nemours foundation,"1,055,489",2011,healthcare,lost / stolen media
+network solutions,"573,000",2009,web,hacked
+network solutions,"573,000",2009,tech,hacked
+new york city health & hospitals corp.,"1,700,000",2011,health,lost device
+new york city health & hospitals corp.,"1,700,000",2010,healthcare,lost / stolen media
+new york state electric & gas,"1,800,000",2012,energy,inside job
+new york state electric & gas,"1,800,000",2012,misc,inside job
+new york taxis,"52,000",2014,transport,poor security
+new york taxis,"52,000",2014,transport,poor security
+newegg,"45,000,000",2018,retail,hacked
+newegg,credit card information,2018,e-commerce,maliciously injected javascript
+nexon korea corp,"13,200,000",2011,gaming,hacked
+nexon korea corp,"13,200,000",2011,web,hacked
+nhs,"8,630,000",2011,healthcare,lost / stolen media
+nhs,"8,600,000",2011,health,lost device
+nhs dumfries and galloway,still unknown,2024,healthcare,cyber attack
+nintendo,"4,000,000",2013,gaming,hacked
+nintendo,"300,000",2020,gaming,hacked
+nintendo (club nintendo),"240,000",2013,gaming,hacked
+nintendo (nintendo account),"160,000",2020,gaming,hacked
+nippon television,"430,000",2016,media,hacked
+nmbs,"700,000",2018,transport,oops!
+norwegian tax administration,"3,950,000",2008,government,accidentally published
+norwegian tax authorities,"3,950,000",2008,government,oops!
+now:pensions,"30,000",2020,financial,rogue contractor
+ntt business solutions,"9,000,000",2023,telecoms,hacked
+ntt docomo,"5,960,000",2023,telecoms,hacked
+nvidia,"100,000",2021,tech,hacked
+ofcom,unknown,2016,telecom,inside job
+office of personnel management,"21,500,000",2015,government,hacked
+"office of the registrar general, birth & death registration","50,000,000+",2023,government,data leak due to security vulnerabilities
+office of the texas attorney general,"6,500,000",2012,government,accidentally published
+office of the texas attorney general,"6,500,000",2012,government,oops!
+ogusers,"529,000",2022,web,hacked
+ohio state university,"760,000",2010,academic,hacked
+ohio state university,"760,000, including names, social security numbers, dates of birth, addresses",2010,academic,hacked
+okta,"100,000",2021,tech,hacked
+omiai dating app,"1,710,000",2021,app,hacked
+open subtitles,"100,000",2022,web,hacked
+optus,"9,800,000",2022,telecommunications,hacked
+orbitz,"880,000",2018,web,hacked
+orbitz,"880,000",2018,web,hacked
+oregon department of motor vehicles,"1,000,000",2011,government,hacked
+oregon department of transportation,"1,000,000, including names, addresses, dates of birth",2011,government,hacked
+ovh,"200,000",2013,web,hacked
+ovh,undisclosed,2013,web,hacked
+oxydata,"380,000,000",2019,tech,poor security
+pakistani mobile operators,"115,000,000",2020,telecoms,hacked
+pandora papers,"11,900,000",2021,government,hacked
+pandora papers,,2021,,
+pandora papers,,2021,,
+panerabread,"37,000,000",2018,retail,poor security
+paradise papers,records,2017,,
+paradise papers,records,2017,,
+park mobile,"21,000,000",2021,transport,hacked
+patreon,"2,300,000",2015,web,hacked
+payasugym,"300,000",2016,web,hacked
+payhere,"1,580,249",2022,financial,hacked
+paypay,"20,076,016",2020,qr code payment,"improper setting, hacked"
+peloton,"3,000,000",2021,tech,poor security
+persol carrier,"549,195",2024,outsourcing service,system deficiency
+petflow,"1,000,000",2019,retail,poor security
+philippines’ commission on elections,"55,000,000",2016,government,hacked
+plex,"15,000,000",2022,web,hacked
+popsugar,"123,857",2018,media,hacked
+premera,"11,000,000",2015,health,hacked
+premera,"11,000,000",2015,healthcare,hacked
+privatization agency of the republic of serbia,"5,190,396",2014,government,oops!
+puerto rico department of health,"515,000",2010,healthcare,hacked
+quest diagnostics,"34,000",2016,health,hacked
+quest diagnostics,"20,000,000",2019,health,poor security
+quest diagnostics,"11,900,000",2019,clinical laboratory,poor security
+quora,"100,000,000",2018,web,hacked
+quora,"100,000,000",2018,question & answer,hacked
+rakuten,"1,381,735",2020,e-commerce,"improper setting, hacked"
+rambler.ru,"98,167,935",2012,web,hacked
+razer,"100,000, including email and mailing addresses, product orders, and phone numbers.",2020,tech,misconfigured server
+rbs worldpay,"1,500,000",2008,financial,hacked
+rbs worldpay,"1,500,000",2008,finance,hacked
+red cross,"500,000",2022,ngo,hacked
+red cross blood service,"550,000",2016,health,oops!
+reddit,unknown,2021,social network,hacked
+reddit,"usernames, emails, 2007 database backup",2018,social network,employee account compromise
+renaper (argentina)[91][92],"45,000,000",2018,government,poor security
+restaurant depot,"200,000",2011,retail,hacked
+restaurant depot,"200,000",2011,retail,hacked by russian hackers
+river city media,"340,000,000",2017,web,oops!
+robinhood,"5,000,937",2021,financial,hacked
+roblox,"3,943, including names, usernames, dates of birth, physical addresses, email addresses, ip addresses, phone numbers, and t-shirt sizes.",2023,gaming,unknown
+roblox,"52,458, including account balances, email addresses, ip addresses, purchases, usernames",2016,gaming,exposed test server
+rockyou!,"32,000,000",2009,"web, gaming",hacked
+rockyou!,"32,000,000",2009,"web, gaming",hacked
+roku,"15,363 accounts",2024,tech,credential stuffing attack
+roll20,"4,000,000, including email addresses, ip addresses, names, the last four digits of credit cards",2018,"web, gaming",hacked
+roll20,"full names, email addresses, ip addresses, the last four digits of credit cards",2024,"web, gaming",compromised administrative account
+roll20,"4,000,000",2019,gaming,hacked
+rootsweb,"300,000",2017,web,poor security
+roscosmos,"handwritten forms, pdfs, spreadsheets, descriptions of lunar missions.",2022,aerospace,hacked by v0g3lsec
+rosen hotels[91][92],unknown,2016,hotel/casino,hacked
+royal enfield,"420,873",2020,transport,poor security
+saks and lord & taylor,"5,000,000",2018,retail,hacked
+saks fifth avenue / lord & taylor,credit card records,2018,retail,hacked
+san francisco public utilities commission,"180,000",2011,government,hacked
+san francisco public utilities commission,"180,000",2011,government,hacked
+sanrio,"3,300,000",2015,web,poor security
+scottrade,"4,600,000",2015,financial,hacked
+scribd,"500,000",2013,web,hacked
+scribd,"500,000",2013,web,hacked
+"seacoast radiology, pa","231,400",2010,healthcare,hacked
+"seacoast radiology, pa","231,400",2011,health,hacked
+securus technologies,"70,000,000",2015,web,hacked
+sega,"1,290,755",2011,gaming,hacked
+sega,"1,290,755",2011,gaming,hacked
+service nsw,"104,000",2020,government,hacked
+service personnel and veterans agency (uk),"50,500",2008,government,lost / stolen media
+service personnel and veterans agency (uk),"50,500",2008,government,lost device
+servicio electoral de chile (servel),"14,308,151, including names, addresses, tax id numbers",2019,government,misconfigured server
+shadow pc,"533,624, including full names, email addresses, dates of birth, billing addresses and credit card expiration dates",2023,tech,social engineering
+shanghai national police database,"1,000,000,000, including name, address, birthplace, national id number, mobile number, all crime/case details",2022,government,unsecured database
+shanghai police,"500,000,000",2022,financial,hacked
+sharethis,"41,000,000",2019,web,hacked
+shopback,unknown,2020,e-commerce,hacked
+singhealth,"1,500,000",2018,health,hacked
+singhealth,"1,500,000",2018,healthcare,hacked
+sky brasil,"32,000,000",2018,telecoms,poor security
+slack,"500,000",2015,app,hacked
+slack,"500,000",2015,tech,poor security
+slickwraps,"377,428",2020,phone accessories,poor security
+snapchat,"1,700,000",2017,app,hacked
+snapchat,"4,700,000",2013,social network,hacked
+snapchat,"4,600,000",2013,"web, tech",hacked
+snowflake,"5 companies, including data from ticketmaster, advanced auto parts, lending tree, cylance, santander bank",2024,"tech, data storage",compromised credentials
+solarwinds,source code compromised,2020,network monitoring,hacked
+solarwinds,"50,000,000",2020,app,hacked
+sony online entertainment,"24,600,000",2011,gaming,hacked
+sony online entertainment,"24,600,000",2011,gaming,hacked
+sony pictures,"10,000,000",2014,misc,hacked
+sony pictures,100 terabytes,2014,media,hacked
+sony pictures,"1,000,000, including passwords, email addresses, phone numbers, home addresses, dates of birth",2011,web,hacked by lulzsec
+sony pictures,"1,000,000",2011,web,hacked
+sony playstation network,"77,000,000",2011,gaming,hacked
+sony psn,"77,000,000",2011,gaming,hacked
+south africa police,"16,000",2013,government,hacked
+south carolina department of revenue,"6,400,000",2012,healthcare,inside job
+south carolina government,"228,000",2012,health,inside job
+south carolina state dept. of revenue,"3,600,000",2012,government,hacked
+"south shore hospital, massachusetts","800,000",2010,healthcare,lost / stolen media
+"south shore hospital, massachusetts","800,000",2011,health,lost device
+southern california medical-legal consultants,"300,000",2011,health,hacked
+southern california medical-legal consultants,"300,000",2011,healthcare,hacked
+spambot,"520,000,000",2017,web,poor security
+spartanburg regional healthcare system,"400,000",2011,health,lost device
+spartanburg regional healthcare system,"400,000, including names, social security numbers, addresses, dates of birth and medical billing codes",2011,healthcare,lost / stolen computer
+spotify,"500,000",2020,app,oops!
+spoutible,"207,114",2024,social network,misconfigured api
+ssndob.ms,"4,000,000",2013,web,hacked
+stanford university,"72,000",2008,academic,lost device
+stanford university,"72,000, including dates of birth, social security numbers, home addresses",2008,academic,lost / stolen computer
+staples,customer payment cards,2014,retail,hacked
+staples,"1,160,000",2014,retail,hacked
+star alliance,"16,000,000",2021,transport,hacked
+starbucks,"97,000",2008,retail,lost device
+starbucks,"97,000, including names, addresses, and social security numbers",2008,restaurant,lost / stolen computer
+starwoodincluding westin hotels & resorts and sheraton hotels and resorts,54 locations,2015,hotel/casino,hacked
+state of texas,"3,500,000",2011,government,oops!
+steam,"35,000,000",2011,web,hacked
+steam,"35,000,000",2011,gaming,hacked
+stockx,"6,800,000",2019,e-commerce,hacked
+stratfor,?,2011,military,hacked
+stratfor,"935,000",2011,military,hacked
+stronghold kingdoms,"5,000,000",2019,gaming,hacked
+supervalu,200 stores,2014,retail,hacked
+suprema,"27,800,000",2019,tech,poor security
+sutter medical center,"4,243,434",2011,healthcare,lost / stolen computer
+sutter medical foundation,"4,243,434",2011,health,lost device
+svr tracking,"540,000",2017,app,poor security
+swedish transport agency,"3,000,000",2017,government,poor security
+syniverse,"500,000,000",2021,telecoms,hacked
+syrian government,"274,477",2016,government,hacked
+t-mobile,"200,000",2020,telecoms,hacked
+t-mobile,"76,000,000",2021,telecoms,hacked
+t-mobile,"45,000,000",2021,telecom,hacked
+t-mobile,"37,000,000",2023,telecom,hacked
+t-mobile,"2,000,000",2018,telecoms,hacked
+"t-mobile, deutsche telecom","17,000,000",2008,telecoms,lost device
+"t-mobile, deutsche telekom","17,000,000, including phone numbers, addresses, dates of birth, email addresses",2006,telecoms,lost / stolen media
+talktalk,records,2015,telecom,hacked
+talktalk,"157,000",2015,telecoms,hacked
+tangerine telecom,"243,462",2024,telecom,compromised credentials
+taobao,"20,000,000",2016,e-commerce,hacked
+target,"70,000,000",2013,retail,hacked
+target corporation,"110,000,000",2013,retail,hacked
+taringa!,"28,722,877",2017,web,hacked
+taxslayer.com,"8,800",2016,web,hacked
+td ameritrade,"6,300,000",2007,finance,hacked
+td ameritrade,"200,000",2005,financial,lost / stolen media
+td ameritrade,"6,300,000",2007,financial,hacked
+td bank,"260,000",2012,financial,hacked
+telegram,"15,000,000",2016,app,hacked
+terracom & yourtel,"170,000",2013,telecoms,accidentally published
+terracom & yourtel,"170,000",2013,telecoms,oops!
+tesco clubcard,"600,000",2020,retail,hacked
+tesla,"75,000",2023,transport,inside job
+tetrad,"120,000,000",2020,market analysis,poor security
+texas lottery,"89,000+, including names, social security numbers, addresses, prize amounts",2007,government,inside job
+texas lottery,"89,000",2008,government,inside job
+texas voter records,"14,800,000",2018,web,poor security
+thailand visitors,"100,000,000",2021,government,poor security
+the bank of new york mellon,"12,500,000, including names, addresses, birth dates, social security numbers",2008,financial,lost box of data tapes
+the hospital group,"1,000,000",2020,health,hacked
+three,"130,000",2016,telecoms,hacked
+three iranian banks,"3,000,000",2012,finance,hacked
+tianya,"40,000,000",2013,web,hacked
+tianya club,"28,000,000",2011,web,hacked
+tic hosting solutions (known as torchbyte),46,2023,hosting provider,misconfigured web server
+ticketfly,"27,000,000",2018,web,hacked
+ticketfly (subsidiary of eventbrite),"26,151,608",2018,ticket distribution,hacked
+ticketmaster,"560,000,000",2024,ticket distribution,hacked third party service
+ticketmaster,"40,000, including login information, payment data, addresses, names, phone numbers",2018,ticket distribution,maliciously modified javascript
+ticketmaster,"40,000",2018,web,hacked
+tiktok,"42,000,000",2020,social network,poor security
+tio networks,"1,600,000",2017,finance,hacked
+tk / tj maxx,"94,000,000",2007,retail,hacked
+tk / tj maxx,"94,000,000",2007,retail,hacked
+tokopedia,"91,000,000",2020,e-commerce,hacked
+toyota,"3,100,000",2019,transport,hacked
+transport for london,"5000+ passengers data including home addresses, bank account details, unconfirmed number of staff data leaked too",2024,local transport authority,hacked
+travelio,"471,376",2021,misc,hacked
+trello,"15,111,945",2024,tech,misconfigured api
+tricare,"4,901,432, including social security numbers, addresses, phone numbers, clinical notes, laboratory tests, prescriptions",2011,"military, healthcare",lost / stolen computer
+tricare,"4,901,432",2011,"military, health",lost device
+"triple-s salud, inc.","398,000",2010,healthcare,lost / stolen media
+"triple-s salud, inc.","398,000",2010,health,lost device
+truecaller,"299,055,000",2019,telephone directory,unknown
+trump hotels,8 locations,2014,hotel/casino,hacked
+tumblr,"65,469,298",2013,web,hacked
+tumblr,"65,000,000",2016,web,hacked
+turkish citizenship database,"49,611,709",2016,government,hacked
+twilio,"33,000,000, including phone numbers,",2024,tech,credential stuffing attack
+twilio,125,2022,tech,phishing attack
+twitch,unknown,2015,tech,hacked
+twitch,"10,000,000",2021,gaming,hacked
+twitch,"10,000,000",2015,health,hacked
+twitch,unknown,2021,tech,hacked/misconfiguration
+twitter,"330,000,000",2018,tech,poor security
+twitter,"250,000",2013,social network,hacked
+twitter,"250,000",2013,web,hacked
+twitter,"5,400,000",2021,web,hacked
+typeform,unknown,2018,tech,poor security
+u-haul,"67,000, including full names, dates of birth, driver license numbers",2023,transport,stolen credentials
+u.s. army,"392,000",2010,government,inside job
+u.s. army,"50,000",2011,military,accidentally published
+u.s. department of defense,"72,000",2009,military,lost / stolen media
+u.s. department of veteran affairs,"26,500,000",2006,"government, military",lost / stolen computer
+u.s. state department,"260,000",2010,military,inside job
+uber,"50,000",2015,"tech, app",poor security
+uber,"57,000,000",2017,app,hacked
+uber,"no customer, driver, or sensitive personal data was directly stolen. exposure of sensitive data from internal systems.",2022,transport,hacked
+uber,"57,000,000",2017,transport,hacked
+uber,"50,000",2014,transport,poor security
+ubiquiti,"16,000,000",2021,tech,hacked
+ubisoft,"58,000,000",2013,gaming,hacked
+ubisoft,unknown,2013,gaming,hacked
+ubuntu,"2,000,000",2013,"tech, web",hacked
+ubuntu,"2,000,000",2013,tech,hacked
+ucla health,"4,500,000",2015,health,hacked
+"ucla medical center, santa monica","4,500,000",2015,healthcare,hacked
+uk home office,"84,000",2008,government,lost device
+uk home office,"84,000",2008,government,lost / stolen media
+uk ministry of defence,"1,700,000",2008,government,lost device
+uk ministry of defence,"1,700,000",2008,government,lost / stolen media
+uk revenue & customs,"25,000,000",2007,government,lost / stolen media
+uk revenue & customs,"25,000,000",2007,government,lost device
+united kingdom parliamentary expenses scandal,records,2009,government,
+united states postal service,"60,000,000",2018,government,poor security
+universiti teknologi mara,"1,164,540",2019,academic,hacked
+university of california berkeley,"160,000",2009,academic,hacked
+"university of california, berkeley","160,000",2009,academic,hacked
+"university of california, berkeley","80,000",2016,academic,hacked
+university of central florida,"63,000",2016,academic,hacked
+university of delaware,"74,000",2013,academic,hacked
+"university of maryland, college park","300,000",2014,academic,hacked
+university of miami,"2,100,000",2008,academic,lost / stolen computer
+university of miami,"2,100,000",2008,academic,lost device
+university of utah hospital & clinics,"2,200,000",2008,academic,lost / stolen media
+university of utah hospitals & clinics,"2,200,000",2008,academic,lost device
+university of wisconsin - milwaukee,"73,000",2011,academic,hacked
+university of wisconsin–milwaukee,"73,000",2011,academic,hacked
+unknown,"1,800,000",2019,web,poor security
+unknown,"201,000,000",2020,personal and demographic data about residents and their properties of us,poor security
+unknown agency(believed to be tied to united states census bureau),"200,000,000",2020,financial,accidentally published
+ups,"4,000,000",2014,retail,hacked
+ups,51 locations,2014,logistics,hacked
+urban massage,"309,000",2018,app,poor security
+us customs and border protection,"100,000",2019,government,hacked
+us dept of vet affairs,"26,500,000",2006,"government, military",lost device
+us federal reserve bank of cleveland,"400,000",2010,finance,hacked
+us law enforcement,"123,461",2011,government,hacked
+us marshals service,"387,000",2020,government,hacked
+us military,"260,000",2010,military,inside job
+us military,"76,000,000",2009,military,lost device
+us national guard,"131,000",2009,military,lost device
+us office of personnel management,"4,000,000",2015,government,hacked
+us office of personnel management (2nd breach),"21,500,000",2015,government,hacked
+utorrent,"35,000",2016,web,hacked
+various,tbc,2020,"government, military",hacked
+various,"2,434,899",2012,government,hacked
+various,,2013,,insider
+various,"6,400,000",2022,various,poor security
+"various law enforcement agencies (philippine national police, national bureau of investigation, bureau of internal revenue)","1,279,437",2023,government,poor security
+vastaamo,"130,000",2020,healthcare,hacked
+verifications.io (first leak),"809,000,000",2019,online marketing,poor security
+verifications.io (total leaks),"2,000,000,000",2019,online marketing,poor security
+verizon communications,"1,500,000",2016,telecoms,hacked
+viacom,"3,000,000",2017,web,hacked
+view media,"38,000,000",2020,online marketing,publicly accessible amazon web services (aws) server
+viewfines,"934,000",2018,transport,oops!
+virgin media,"900,000",2020,retail,poor security
+virgin media,"900,000",2020,telecoms,accidentally exposed
+virginia prescription monitoring program,"8,257,378",2009,healthcare,hacked
+virginia prescription monitoring program,"531,400",2009,health,hacked
+vision direct,"16,300",2018,retail,hacked
+"visualisation here: https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+pink = new","(use 3m, 4m, 5m or 10m to approximate unknown figures)",year story broke,"web
+healthcare
+app
+retail
+gaming
+transport
+financial
+tech
+government
+telecoms
+legal
+media
+academic
+energy
+military","poor security
+hacked
+oops!
+lost device 
+inside job"
+vk,"171,000,000",2016,web,hacked
+vodafone,"2,000,000",2013,telecoms,inside job
+vodafone,"2,000,000",2013,telecoms,inside job
+vtech,"6,400,000",2015,web,hacked
+vtech,"5,000,000",2015,retail,hacked
+vw,"3,300,000",2021,transport,hacked
+vårdguiden,"2,700,000",2019,health,poor security
+walmart,"1,300,000",2015,retail,hacked
+washington post,"1,270,000",2011,misc,hacked
+washington post,"1,270,000",2011,media,hacked
+washington state court system,"160,000",2013,government,hacked
+washington state court system,"160,000",2013,government,hacked
+washington state dpt of licensing,"257,000",2022,government,hacked
+waterly,"1,000,000",2017,app,poor security
+wattpad,"270,000,000",2020,web,hacked
+wawa,"30,000,000",2019,retail,hacked
+wawa (company),"30,000,000",2020,retail,hacked
+weebly,"43,000,000",2016,web,hacked
+weebly,"43,430,316",2016,web,hacked
+wellnow urgent care,"patients’ names, dates of birth, health information",2023,healthcare,ransomware hacked
+wendy's,"1,025",2016,retail,hacked
+wendy's,unknown,2015,restaurant,hacked
+western sydney university,"7,500, including email accounts, sharepoint files, and the microsoft office 365 environment",2024,academic,hacked
+westpac,"98,000",2019,financial,hacked
+whitepages,"18,000,000",2019,web,hacked
+wifi finder,"2,000,000",2019,app,poor security
+wonga,"270,000",2017,finance,hacked
+woodruff arts center,unknown,2019,arts group,poor security
+wordpress,thousands of websites,2018,web services,vulnerabilities in plugins
+world check,"2,200,000",2016,misc,poor security
+writerspace.com,"62,000",2011,web,hacked
+writerspace.com,"62,000",2011,web,hacked
+xat.com,"6,054,459",2015,web,social engineering
+yahoo,"550,000,000",2013,web,hacked
+yahoo,"500,000,000",2016,web,hacked
+yahoo,"3,000,000,000",2013,web,hacked
+yahoo,"32,000,000",2017,web,hacked
+yahoo,"500,000,000",2014,web,hacked
+yahoo japan,"22,000,000",2013,"tech, web",hacked
+yahoo japan,"22,000,000",2013,"tech, web",hacked
+yahoo voices,"450,000",2012,"tech, web",hacked
+yahoo! voices,"450,000",2012,web,hacked
+yale university,"43,000",2010,academic,accidentally published
+yale university,"43,000",2011,academic,oops!
+younow,"40,000,000",2019,web,hacked
+youtube,"4,000,000",2020,social network,poor security
+yum! brands,"names, driver's license numbers, and other id card numbers.",2023,restaurant,ransomware attack
+zappos,"24,000,000",2012,web,hacked
+zappos,"24,000,000",2012,e-commerce,hacked
+zhenhua,"2,400,000",2020,misc,oops!
+zomato,"17,000,000",2017,web,hacked
+zoom,"500,000",2020,app,hacked
+zynga,"173,000,000",2019,social network,hacked
