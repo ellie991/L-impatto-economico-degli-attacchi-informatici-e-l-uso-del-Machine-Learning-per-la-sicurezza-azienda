@@ -1,4 +1,4 @@
-***The Economic Impact of Cyber Attacks and the Use of Machine Learning for Business Security****
+***The Economic Impact of Cyber Attacks and the Use of Machine Learning for Business Security***
 
 This repository contains my thesis titled **"The Economic Impact of Cyber Attacks and the Use of Machine Learning for Business Security"**, presented at the University of Cagliari, in the *Data Science, Business Analytics, and Innovation* MS degree program.
 
