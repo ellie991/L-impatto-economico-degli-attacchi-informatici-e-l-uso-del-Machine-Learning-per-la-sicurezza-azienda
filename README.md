@@ -28,12 +28,12 @@ The work analyzes the economic consequences of cybercrime on businesses, explori
 **3. Machine Learning for Security**
 - Applications of AI and machine learning for cybersecurity.
 - Opportunities and risks associated with AI adoption.
-
+  
 **4. Machine Learning Experiments**
 - *Phishing detection*: Using NLP to recognize fraudulent emails. *Classification task*
 - *URL detection*: Identifying malicious websites. *Classification task*
 - *Password analysis*: Assessing the security of access credentials. *Explorative task*
-- 
+
 
 Technical Requirements
 To run the analyses in the notebooks, make sure you have the following packages installed in requirements.txt
