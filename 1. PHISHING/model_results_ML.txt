@@ -1,0 +1,114 @@
+
+--- Naive Bayes ---
+Accuracy: 0.8921384491548162
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.97      0.76      0.85      1518
+    Safe Email       0.86      0.98      0.92      2209
+
+      accuracy                           0.89      3727
+     macro avg       0.91      0.87      0.88      3727
+  weighted avg       0.90      0.89      0.89      3727
+
+
+Confusion Matrix:
+[[1154  364]
+ [  38 2171]]
+
+
+--- Support Vector Machine ---
+Accuracy: 0.9750469546552186
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.95      0.99      0.97      1518
+    Safe Email       0.99      0.97      0.98      2209
+
+      accuracy                           0.98      3727
+     macro avg       0.97      0.98      0.97      3727
+  weighted avg       0.98      0.98      0.98      3727
+
+
+Confusion Matrix:
+[[1496   22]
+ [  71 2138]]
+
+
+--- Random Forest ---
+Accuracy: 0.95733834182989
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.95      0.94      0.95      1518
+    Safe Email       0.96      0.97      0.96      2209
+
+      accuracy                           0.96      3727
+     macro avg       0.96      0.96      0.96      3727
+  weighted avg       0.96      0.96      0.96      3727
+
+
+Confusion Matrix:
+[[1434   84]
+ [  75 2134]]
+
+
+--- Logistic Regression ---
+Accuracy: 0.9651193989804132
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.94      0.97      0.96      1518
+    Safe Email       0.98      0.96      0.97      2209
+
+      accuracy                           0.97      3727
+     macro avg       0.96      0.97      0.96      3727
+  weighted avg       0.97      0.97      0.97      3727
+
+
+Confusion Matrix:
+[[1475   43]
+ [  87 2122]]
+
+
+--- K-Nearest Neighbors ---
+Accuracy: 0.9415079152133083
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.89      0.98      0.93      1518
+    Safe Email       0.98      0.92      0.95      2209
+
+      accuracy                           0.94      3727
+     macro avg       0.94      0.95      0.94      3727
+  weighted avg       0.95      0.94      0.94      3727
+
+
+Confusion Matrix:
+[[1482   36]
+ [ 182 2027]]
+
+
+--- Gradient Boosting ---
+Accuracy: 0.9254091762811913
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Phishing Email       0.90      0.92      0.91      1518
+    Safe Email       0.94      0.93      0.94      2209
+
+      accuracy                           0.93      3727
+     macro avg       0.92      0.92      0.92      3727
+  weighted avg       0.93      0.93      0.93      3727
+
+
+Confusion Matrix:
+[[1395  123]
+ [ 155 2054]]
+
