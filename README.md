@@ -15,6 +15,7 @@ The work analyzes the economic consequences of cybercrime on businesses, explori
    
 
 **Main Topics**
+
 **1. Cybercrime and Economic Impact**
 - Overview of cybercrime and common threats.
 - Analysis of the dark web and the role of hackers.
